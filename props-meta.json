@@ -1,0 +1,32 @@
+[
+  {
+    "names": ["person", "people"],
+    "path": "src/reducers/entities/people",
+    "props": {
+      "used": [
+        "id",
+        "name",
+        "age",
+        "occupation"
+      ],
+      "unused": []
+    }
+  },
+  {
+    "names": ["cat", "cats"],
+    "path": "src/reducers/entities/cats",
+    "props": {
+      "used": [
+        "name",
+        "breed",
+        "photo",
+        "favoriteFood",
+        "ownerId"
+      ],
+      "unused": [
+        "id",
+        "weight"
+      ]
+    }
+  }
+]

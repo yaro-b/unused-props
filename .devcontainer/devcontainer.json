@@ -1,0 +1,8 @@
+{
+  "build": { "dockerfile": "Dockerfile" },
+  "extensions": [
+    "dbaeumer.vscode-eslint",
+    "jpoissonnier.vscode-styled-components"
+  ],
+  "forwardPorts": [3000]
+}

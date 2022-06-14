@@ -1,0 +1,36 @@
+{
+  "people": [
+    {
+      "id": "person-1",
+      "name": "Alice",
+      "age": 28,
+      "occupation": "Recruiter"
+    },
+    {
+      "id": "person-2",
+      "name": "Bob",
+      "age": 31,
+      "occupation": "Software engineer"
+    }
+  ],
+  "cats": [
+    {
+      "id": "cat-1",
+      "name": "Snowflake",
+      "breed": "Munchkin",
+      "photo": "/images/munchkin.jpg",
+      "favoriteFood": "Cheesecake",
+      "weight": "8 kg",
+      "ownerId": "person-1"
+    },
+    {
+      "id": "cat-2",
+      "name": "Mr Cuddles",
+      "breed": "Japanese Bobtail",
+      "photo": "/images/japanese_bobtail.jpg",
+      "favoriteFood": "Tuna",
+      "weight": "5 kg",
+      "ownerId": "person-2"
+    }
+  ]
+}

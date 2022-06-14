@@ -1,0 +1,2 @@
+export const DATA_RECEIVED = "DATA_RECEIVED"
+export const PERSON_SELECTED = "PERSON_SELECTED"
